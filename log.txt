@@ -1,0 +1,4 @@
+июн. 15, 2024 11:19:32 PM Task5Sem2 writeArrayToFile
+INFO: Данные успешно записаны
+июн. 15, 2024 11:19:55 PM Task5Sem2 writeArrayToFile
+INFO: Данные успешно записаны

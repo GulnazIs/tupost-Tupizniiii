@@ -1,0 +1,5 @@
+contentFolder.txt
+FileList.txt
+log.txt
+log.txt.lck
+Task5Sem2.java
